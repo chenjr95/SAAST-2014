@@ -1,0 +1,7 @@
+document.write('<!-- -------------- Advertising.com ------ AOL-Mail - Aol Webmail 160x600 - 819860 redirect to 819960 ------------ -->\n<scr' + 'ipt type=\'text/javascript\'>\nvar ACE_AR = {site: \'819960\', size: \'160600\'};\n</scr' + 'ipt>\n<scr' + 'ipt type=\'text/javascript\' SRC=\'http://uac.advertising.com/wrapper/aceUAC.js\'></scr' + 'ipt>\n<!-- ---------- Copyright 2009, Advertising.com ---------- -->');
+var rm_data = new Object();
+rm_data.creative_id = 12940571;
+rm_data.offer_type = 3;
+rm_data.entity_id = 622281;
+
+if (window.rm_crex_data) {rm_crex_data.push(12940571);}
