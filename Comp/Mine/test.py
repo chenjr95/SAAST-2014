@@ -2,6 +2,8 @@ abc
 
 defg
 
+hijk
+
 count = 0
 def change (amt):
     if amt < 0:
