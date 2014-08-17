@@ -1,5 +1,7 @@
 abc
 
+defg
+
 count = 0
 def change (amt):
     if amt < 0:
